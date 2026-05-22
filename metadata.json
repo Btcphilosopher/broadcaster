@@ -1,0 +1,6 @@
+{
+  "name": "Broadcaster",
+  "description": "A modern creator-first microblogging and multi-format broadcasting platform with integrated media hosting (text, video, podcasts) and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
